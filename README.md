@@ -13,13 +13,13 @@ Telegram: https://t.me/alfremgk
 
 ## 🚀 Skills
 
-# Lenguajes
+### Lenguajes
 ---[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,java,py¿,dart,)](https://skillicons.dev)
 
-# Frameworks
+### Frameworks
 
 
-# Soft skills
+### Soft skills
 
 ## ⭐ GitHub Stats
 
