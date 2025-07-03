@@ -1,9 +1,6 @@
 ## Hola, mi nombre es Alfred!
 
-Estudiante 4to año Ingeniería informática. Futuro desarrollador de videojuegos. Antiguo concursante de programación IOI y ACM ICPC desde 2017-2020. Participante de concursos Global Game Jam en 2020 y 2023
-
-🔭 Actualmente trabajo en mi tesis, se puede revisar en el siguiente repositorio:
-https://github.com/RedAlf121/sistema-prestamos-bibilioteca-cujae
+Ingeniero informático y futuro desarrollador de videojuegos. Antiguo concursante de programación IOI y ACM ICPC desde 2017-2020. Participante de concursos Global Game Jam en 2020 y 2023
 
 # 💬 Pueden contactarme por: 
 Gmail: andezmgk@gmail.com
