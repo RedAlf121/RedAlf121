@@ -14,7 +14,7 @@ Telegram: https://t.me/alfremgk
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,java,python,dart,)](https://skillicons.dev)
 
 ### Frameworks
-[![My Skills](https://skillicons.dev/icons?i=django,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,fastapi)](https://skillicons.dev)
 
 
 ### Soft skills
