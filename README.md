@@ -21,7 +21,7 @@ Telegram: https://t.me/alfremgk
 #### Gamedev
 [![My Skills](https://skillicons.dev/icons?i=godot,unity)](https://skillicons.dev)
 #### AI
-[![My Skills](https://skillicons.dev/icons?i=numpy,pandas,sklearn,keras,tensorflow,langchain)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sklearn,tensorflow,langchain)](https://skillicons.dev)
 
 
 ### Soft skills
