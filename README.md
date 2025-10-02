@@ -43,5 +43,5 @@ Telegram: https://t.me/alfremgk
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RedAlf121&show_icons=true)
 
-![Snake animation](https://github.com/tu_usuario/tu_usuario/blob/output/github-contribution-grid-snake.svg)
+
 
