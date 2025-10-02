@@ -32,6 +32,13 @@ Telegram: https://t.me/alfremgk
 
 ### Soft skills
 
+* C1 en inglés
+* A1 en alemán
+* Comunicación asertiva
+* Aprendizaje acelerado y adaptativo
+* Resolución de problemas
+* Trabajo en equipo
+
 ## ⭐ GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RedAlf121&show_icons=true)
