@@ -12,11 +12,11 @@ Telegram: https://t.me/alfremgk
 
 ### Lenguajes
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js,c,cpp,cs,java,python,dart,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,c,cpp,cs,java,python,dart,php)](https://skillicons.dev)
 
 ### Tecnologías
 #### Backend
-[![My Skills](https://skillicons.dev/icons?i=django,fastapi,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,fastapi,express,laravel)](https://skillicons.dev)
 #### Frontend
 [![My Skills](https://skillicons.dev/icons?i=react,next,flutter,htmx)](https://skillicons.dev)
 #### Gamedev
