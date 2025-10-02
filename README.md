@@ -25,7 +25,8 @@ Telegram: https://t.me/alfremgk
 #### AI
 [![My Skills](https://skillicons.dev/icons?i=sklearn,tensorflow)](https://skillicons.dev)
 <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/3cf655a6-5844-4b73-b318-70d1da83ba26" />
-<img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/b7cb2d91-5140-4ae6-9941-1df6c6aee963" style="background-color: white"/>
+<img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/cf2321b9-1826-49db-b115-036f97889537" />
+
 
 
 
