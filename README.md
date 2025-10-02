@@ -24,7 +24,8 @@ Telegram: https://t.me/alfremgk
 [![My Skills](https://skillicons.dev/icons?i=godot,unity,gamemakerstudio)](https://skillicons.dev)
 #### AI
 [![My Skills](https://skillicons.dev/icons?i=sklearn,tensorflow)](https://skillicons.dev)
-<img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/8dfe10ed-c84d-48a6-a6fe-1614034f1c3c" />
+![LangChain](https://raw.githubusercontent.com/langchain-ai/langchain/main/docs/img/langchain-icon
+
 
 
 ### Soft skills
