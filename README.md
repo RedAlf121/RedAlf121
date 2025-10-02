@@ -1,4 +1,4 @@
-## Hola, mi nombre es Alfred![!https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/gifs/wave.gif]
+## Hola, mi nombre es Alfred!
 
 Ingeniero informático y futuro desarrollador de videojuegos. Antiguo concursante de programación IOI y ACM ICPC desde 2017-2020. Participante de concursos Global Game Jam en 2020 y 2023
 
