@@ -11,7 +11,8 @@ Telegram: https://t.me/alfremgk
 ## 🚀 Skills
 
 ### Lenguajes
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,cs,java,python,dart,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,c,cpp,cs,java,python,dart,)](https://skillicons.dev)
 
 ### Tecnologías
 #### Backend
