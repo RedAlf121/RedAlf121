@@ -17,7 +17,7 @@ Telegram: https://t.me/alfremgk
 #### Backend
 [![My Skills](https://skillicons.dev/icons?i=django,fastapi,express)](https://skillicons.dev)
 #### Frontend
-[![My Skills](https://skillicons.dev/icons?i=react,next,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,flutter,htmx)](https://skillicons.dev)
 #### Gamedev
 [![My Skills](https://skillicons.dev/icons?i=godot,unity)](https://skillicons.dev)
 #### AI
