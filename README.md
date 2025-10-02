@@ -32,8 +32,8 @@ Telegram: https://t.me/alfremgk
 
 ### Soft skills
 
-* C1 en inglés <img width="48" height="48" alt="english" src="https://github.com/user-attachments/assets/5b776ae5-aa77-46b0-8a7d-73a67199e3de" />
-* A1 en alemán <img width="48" height="48" alt="deutsch" src="https://github.com/user-attachments/assets/6ed6ad49-f611-407e-8e2f-8c38efcd5a3e" />
+* C1 en inglés <img width="24" height="24" alt="english" src="https://github.com/user-attachments/assets/5b776ae5-aa77-46b0-8a7d-73a67199e3de" />
+* A1 en alemán <img width="24" height="24" alt="deutsch" src="https://github.com/user-attachments/assets/6ed6ad49-f611-407e-8e2f-8c38efcd5a3e" />
 * Comunicación asertiva
 * Aprendizaje acelerado y adaptativo
 * Resolución de problemas
