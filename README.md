@@ -44,6 +44,3 @@ Telegram: https://t.me/alfremgk
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RedAlf121&show_icons=true)
 
 
-
-<p align="center"><a href="https://github.com/RedAlf121"><img src="https://user-images.githubusercontent.com/90142173/154796318-e529fdc7-2132-4ce7-8417-06b71cf02506.svg"></a></p>
-
