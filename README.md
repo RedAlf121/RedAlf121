@@ -14,7 +14,14 @@ Telegram: https://t.me/alfremgk
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,csharp,java,python,dart,)](https://skillicons.dev)
 
 ### Frameworks
-[![My Skills](https://skillicons.dev/icons?i=django,fastapi,express,unity,godot)](https://skillicons.dev)
+#### Backend
+[![My Skills](https://skillicons.dev/icons?i=django,fastapi,express)](https://skillicons.dev)
+#### Frontend
+[![My Skills](https://skillicons.dev/icons?i=react,flutter)](https://skillicons.dev)
+#### Gamedev
+[![My Skills](https://skillicons.dev/icons?i=godot,unity)](https://skillicons.dev)
+#### AI
+[![My Skills](https://skillicons.dev/icons?i=numpy,pandas,scikit-learn,keras,tensorflow,langchain)](https://skillicons.dev)
 
 
 ### Soft skills
